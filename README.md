@@ -4,10 +4,11 @@
 
 ## Continuation from weekly assignment II
 
-### Access to the website, [Click Here] (https://cheery-taiyaki-091a00.netlify.app/)
+### Access to the website, [Click Here] (https://cheery-taiyaki-091a00.netlify.app/) <br>
 
-Screenshot for Mobile:
-(/assets/Guidance&Video.jpg "Rules and Video Page")
-(/assets/collection.jpg "Our Book Collection Page")
-(/assets/Join.jpg "Join Us Page")
-(/assets/Welcome&Menu.jpg "Menu and Welcome Page")
+<p>Screenshot for Mobile:
+  
+![Rules and Video Page!](/assets/image/Guidance&Video.jpg "Rules & Video")
+![Book Collection](/assets/image/collection.jpg "Gallery Book")
+![Join US Page](/assets/image/Join.jpg "Join us")
+![Welcome Page](/assets/image/Welcome&Menu.jpg "Menu and Welcome Page")
